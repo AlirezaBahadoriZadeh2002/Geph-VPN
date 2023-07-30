@@ -35,7 +35,11 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 ```
 sudo flatpak install Geph-x86_64.flatpak
 ```
+### 7. Run Geph
 
+```
+flatpak run io.geph.GephGui
+```
 
 
 
