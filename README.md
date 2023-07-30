@@ -1,4 +1,4 @@
-# Geph linux
+# Geph VPN for linux
 
 ## Steps
 
